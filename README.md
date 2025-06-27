@@ -41,3 +41,9 @@ El entorno está representado como una matriz:
 
 ```bash
 pip install pygame numpy matplotlib
+
+---
+
+## Simulacion:
+
+![Simulación del robot](Simulation.png)
