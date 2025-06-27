@@ -41,7 +41,7 @@ El entorno está representado como una matriz:
 
 ```bash
 pip install pygame numpy matplotlib
-
+```
 ---
 
 ## Simulacion:
